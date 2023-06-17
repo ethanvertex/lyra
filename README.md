@@ -1,5 +1,4 @@
-
-![Original Logo Symbol](https://github.com/ethanvertex/lyra/assets/136727484/34867b04-11ce-470c-a2a9-3c35f144962e =250x250)
+![Original Logo Symbol](https://github.com/ethanvertex/lyra/assets/136727484/c25d87fc-820a-4829-9cef-8d53654cc1ed)
 
 Lyra is a cutting-edge programming language that blends the best features from TypeScript and Python, offering developers a unique, flexible coding experience. It integrates the robustness of static typing with the flexibility of an interpreted language, delivering performance with ease of use.
 
