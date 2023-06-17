@@ -1,6 +1,6 @@
 ![Original Logo Symbol](https://github.com/ethanvertex/lyra/assets/136727484/c25d87fc-820a-4829-9cef-8d53654cc1ed)
 
-_**Lyra**_ is a cutting-edge programming language that blends the best features from TypeScript and Python, offering developers a unique, flexible coding experience. It integrates the robustness of static typing with the flexibility of an interpreted language, delivering performance with ease of use.
+**Lyra** is a cutting-edge programming language that blends the best features from TypeScript and Python, offering developers a unique, flexible coding experience. It integrates the robustness of static typing with the flexibility of an interpreted language, delivering performance with ease of use.
 
 **Static Typing**: Taking a leaf from TypeScript's book, Lyra incorporates optional static typing, catching errors at compile time and improving tooling support. Code refactoring, auto-completion, hinting, and documentation generation are much more efficient, thanks to this feature.
 
