@@ -33,17 +33,12 @@ Finally, main() is called to execute the program. The use of async/await syntax 
 
 ```typescript
 # Lyra Sample Program
-import async from '@lyra:core';
+import async, fetch from '@lyra:core';
 
 // Define an asynchronous function
-async sub fetch_data(url: String): 
-    response = await http.get(url)
-    return response
-
-// Define another asynchronous function that uses the first
-async sub get_user_data(userId: String): 
+async sub get_user_data(userId: string): 
     url = "https://api.example.com/users/" + userId
-    user_data = await fetch_data(url)
+    user_data = await fetch(url)
     return user_data
 
 // Call the function
